@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>3e9ca33a-0542-483c-bdfe-dcfeac4b71bd</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>C:\Users\apple\source\repos\SomePythonStuff\SomePythonStuff\21_02_24_L2.py</StartupFile>
+    <StartupFile>C:\Users\apple\source\repos\SomePythonStuff\SomePythonStuff\28_02_24_L3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="21_02_24_L2.py" />
+    <Compile Include="28_02_24_L3.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.9" />
